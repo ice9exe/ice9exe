@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ice9exe
+- 👋 Hi, I’m @ice9exe and I'm a good DevSecOps (i hope)
 - 👀 I’m interested in devops (Ansible, Hashicorps Terraform, Hashicorps Nomad, Hashicorps Consul, Hashicorps Vault, AWS)
 - 🌱 I’m currently learning devops (Ansible, Hashicorps Terraform, Hashicorps Nomad, Hashicorps Consul, Hashicorps Vault, AWS)
 
